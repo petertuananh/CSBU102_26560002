@@ -1,3 +1,6 @@
+# Phan Tran Tuan Anh - 26560002 
+# Purpose: LAB 02, Experiment 1 - read and write words in memory (Listing 1 + Listing 2)
+
 .data
 varB:   .word 25
 varC:   .word 17

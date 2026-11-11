@@ -1,3 +1,6 @@
+# Phan Tran Tuan Anh - 26560002 
+# Purpose: LAB 02, Experiment 2 - swap two elements, index in a register, own data + total
+
 .data
 scores: .word 40, 55, 70, 85, 100     # used by Step 2.1 and Step 2.2
 mine:   .word 40, 55, 70, 85, 100     # used by Step 2.3 (own data)

@@ -1,3 +1,6 @@
+# Phan Tran Tuan Anh - 26560002 
+# Purpose: LAB 02, Experiment 3 - bytes, byte order, lb/lbu, capital letters in a string
+
 .data
 word1: .asciiz "Hi!"
 w:     .word 0x41424344
