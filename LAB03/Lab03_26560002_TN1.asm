@@ -1,3 +1,6 @@
+# Phan Tran Tuan Anh - 26560002
+# Pp: Illustrate how to invoke two leaf procedures (stars and sep) utilizing the jal and jr $ra instructions.
+
 # Listing 1 - one procedure, called from two places
 .data
 title:  .asciiz "SCORE REPORT\n"

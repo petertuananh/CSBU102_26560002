@@ -1,3 +1,6 @@
+# Phan Tran Tuan Anh - 26560002
+# Pp: A leaf routine named min_max that finds and returns the smallest ($v0) and largest ($v1) elements in an array.
+
 # Add this inside your main procedure, replacing or adding to the Class A/B logic:
 
     # --- Call min_max for Class A ---

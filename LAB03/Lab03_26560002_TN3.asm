@@ -1,3 +1,6 @@
+# Phan Tran Tuan Anh - 26560002
+# Pp: A gradebook module that calculates array sums and passing student counts for Classes A and B.
+
 # Lab 02 - Experiment 3: Gradebook Library
 # Student ID: 26560002 -> D = 2, M = 55 + (4 * 2) = 63
 

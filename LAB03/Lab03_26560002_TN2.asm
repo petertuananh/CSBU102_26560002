@@ -1,3 +1,6 @@
+# Phan Tran Tuan Anh - 26560002
+# Pp: Write a leaf procedure that restricts an integer x to [lo, hi].
+
 # Listing 2 - max2(a, b) returns the larger of a and b
 .text
 .globl main

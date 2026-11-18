@@ -1,3 +1,6 @@
+# Phan Tran Tuan Anh - 26560002
+# Pp: Save the callee-saved register $s0 onto the stack within sum3 (Fix B)
+
 # Listing 6 - a procedure that breaks the convention
 .text
 .globl main
